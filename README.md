@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Buari Olatunji
 - 👀 I’m interested in Programming as a whole, Frontend heavy
-- 🌱 I’m currently learning Javascript and it's multiple frameworks
+- 🌱 My main stacks are Javascript and it's multiple frameworks
 - 💞️ I’m looking to collaborate on any opensource projects
 - 📫 How to reach me buariolatunji@gmail.com
 
